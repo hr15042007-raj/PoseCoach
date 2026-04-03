@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "584332363728",
+    "project_id": "posecoach-a940b",
+    "storage_bucket": "posecoach-a940b.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:584332363728:android:c3caedbec1a3a596a79bd5",
+        "android_client_info": {
+          "package_name": "com.posecoach.pose_coach"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDFjzv5C9OrbNdJ9CK8fmfihIQ1qkcZn40"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
